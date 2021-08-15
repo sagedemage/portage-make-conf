@@ -1,7 +1,29 @@
 # portage-make-config
 make config for virtualbox.
-
-## Disabled
+## Use Flags
+### Enabled
+1. X 
+2. alsa 
+3. elogind 
+4. acl 
+5. ipv6 
+6. nls 
+7. cxx 
+8. zlib 
+9. bzip2 
+10. openmp 
+11. png 
+12. gif 
+13. jpeg 
+14. shm 
+15. ssl 
+16. unicode 
+17. imlib 
+18. xa 
+19. libkms 
+20. pulseaudio 
+21. harfbuzz
+### Disabled
 1. tiff 
 2. webp 
 3. bluetooth 
