@@ -25,6 +25,7 @@ make config for virtualbox.
 21. harfbuzz
 22. gtk3
 23. cairo
+24. dbus
 ### Disabled
 1. tiff 
 2. webp 
