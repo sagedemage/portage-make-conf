@@ -23,6 +23,7 @@ make config for virtualbox.
 19. libkms 
 20. pulseaudio 
 21. harfbuzz
+22. gtk3
 ### Disabled
 1. tiff 
 2. webp 
