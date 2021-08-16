@@ -24,6 +24,7 @@ make config for virtualbox.
 20. pulseaudio 
 21. harfbuzz
 22. gtk3
+23. cairo
 ### Disabled
 1. tiff 
 2. webp 
